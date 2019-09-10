@@ -7,7 +7,7 @@
 
 //sensor pins
 const int IRL = 14;   //A0
-const int IRR = 16;   //A1
+const int IRR = 15;   //A1
 
 //Motor control pins-
 const int pwmA = 5;
@@ -23,7 +23,7 @@ void setup() {
   pinMode(MOT3, OUTPUT);
   pinMode(IRL, INPUT);
   pinMode(IRR, INPUT);
-  analogWrite(pwmA, 65);
+  analogWrite(pwmA, 60);
   analogWrite(pwmB, 60);
 }
 void loop() {

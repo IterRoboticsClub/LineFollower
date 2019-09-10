@@ -1,2 +1,2 @@
 # LineFollower
-This repo contains all code of line follower robot
+This repo contains all codes of line follower robot

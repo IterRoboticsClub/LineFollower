@@ -34,7 +34,7 @@ The working of a line follower robot is pretty straight forward. These robots ha
 
 ## Code
 
-This is a very basic code for the Line Follower Robot with 2 IR sensors. (<a href="https://github.com/saswatsamal/LineFollower/tree/master/code#exactline">Click Here</a>)
+This is a very basic code for the Line Follower Robot with 2 IR sensors. (<a href="https://github.com/ITER-ROBOTICS-CLUB/LineFollower/tree/master/code#exactline">Click Here</a>)
 
 But you can develop more stronger code for different arrays and share with us.
 
